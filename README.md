@@ -8,4 +8,5 @@ This report will present the results of designing and making prediction models u
  - Logistic Regression
  - Support Vector Machine (SVM)
  - Artificial Neural Networks (ANN)
-<br> The seven models made will be compared to find the one with the best performance. The dataset used is the Cardiotocography Data Set obtained from the UCI Machine Learning Repository. From the comparison of the seven models, the model made using Artificial Neural Network has the best performance in predicting fetal health with an accuracy score of 94.366%, precision of 91.915%, recall of 88.143%, and F-1 Score of 89.948%.
+<br> 
+The seven models made will be compared to find the one with the best performance. The dataset used is the Cardiotocography Data Set obtained from the UCI Machine Learning Repository. From the comparison of the seven models, the model made using Artificial Neural Network has the best performance in predicting fetal health with an accuracy score of 94.366%, precision of 91.915%, recall of 88.143%, and F-1 Score of 89.948%.
